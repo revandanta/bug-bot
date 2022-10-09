@@ -1,3 +1,4 @@
+'''bash
 ◪ Command & Install Bot ◪
 2. - pkg update && upgrade
     - $ pkg install nodejs -y
@@ -16,3 +17,4 @@
     - $ yarn 
     - $ npm start
                     == Scan Deh ==
+'''
